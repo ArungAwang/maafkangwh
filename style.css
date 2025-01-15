@@ -1,0 +1,60 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    background-color: pink;
+}
+
+.Navbar1 {
+    height: 7vh;
+    width: 50vw;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.judul {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    margin: 10px;
+    font-size: 25px;
+}
+
+.isi {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    margin: 10px;
+    font-size: 25px;
+}
+
+.body {
+    width: 100%;
+    height: 100%;
+    background-color: pink;
+}
+
+.gambar1 {
+    width: 50vw;
+    height: 50vh;
+    border-radius: 50px;
+    padding-top: 20vh;
+    align-items: center;
+    flex-direction: column;
+    justify-content: start;
+}
+
+.isi2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    margin: 10px;
+    font-size: 25px;
+}
